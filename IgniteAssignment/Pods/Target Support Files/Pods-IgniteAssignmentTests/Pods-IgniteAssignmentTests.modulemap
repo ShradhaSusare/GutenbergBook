@@ -1,0 +1,6 @@
+framework module Pods_IgniteAssignmentTests {
+  umbrella header "Pods-IgniteAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

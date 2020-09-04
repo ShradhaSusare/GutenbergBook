@@ -1,0 +1,6 @@
+framework module Pods_IgniteAssignment {
+  umbrella header "Pods-IgniteAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
